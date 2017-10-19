@@ -8,7 +8,7 @@ It's author believes private information always remains private.
 +) App configuration is stored on device and not sent externally.
 +) Subscription details are never transmitted off device.
 
-# Notfication of Changes : 
+# Notification of Changes : 
 If the INKontrol privacy policy changes - this file will reflect any changes.
 
 # Contact point for Questions : 
